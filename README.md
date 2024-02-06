@@ -6,6 +6,6 @@ Requires installation of:
 - mysql server extension: npm install mysql
 
 MAIN FILE
-detailedScraper:
+detailedScraper.js:
 - Uses Puppeteer Cluster to scrape 4 HMD pages in an efficient manner
 - loads HMD data into mySql server
